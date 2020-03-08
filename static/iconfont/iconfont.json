@@ -1,0 +1,16 @@
+{
+  "id": "1678876",
+  "name": "Travel",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2571145",
+      "name": "图片",
+      "font_class": "tupian",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    }
+  ]
+}
